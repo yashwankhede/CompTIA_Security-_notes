@@ -1,10 +1,8 @@
 # CompTIA_Security-_notes
 
-# Ethical Hacking Topics - Commands
+This section provides a list of commands and tools relevant to various security-related topics.
 
-This section provides a list of commands and tools relevant to various ethical hacking topics.
-
-## Introduction to Ethical Hacking
+## Introduction to CompTIA Security+
 
 - No specific commands; tools and techniques vary depending on the situation.
 
